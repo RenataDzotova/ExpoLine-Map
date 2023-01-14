@@ -1,0 +1,37 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* padding: 6rem; */
+  min-height: 100vh;
+  background-color: #fffcf8;
+}
+
+.map{
+  width: 80%;
+  height: 40rem;
+}
+
+.header{
+  background-color: #0c5f99;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 4px 10px grey;
+    margin-bottom: 20px;
+    width:100vw;
+    height:100px;
+}
+
+.headerH3{
+  font-size: 50px;
+  font-weight: bold;
+  color: pink;
+}
+
+
+.headerH3{
+  font-size: 23px;
+  font-weight: bold;
+  color: pink;
+}
